@@ -41,7 +41,7 @@ Upon running the notebook, you will see several graphics assisting in your analy
 
 ## Usage
 
-To use the risk return analysis notebook, open risk_return_analysis.ipynb in a Jupyter Lab environment (or other IDE with Jupyter notebook extensions):
+To use the housing analysis notebook, open san_francisco_housing.ipynb in a Jupyter Lab environment (or other IDE with Jupyter notebook extensions):
 
 ---
 
