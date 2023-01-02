@@ -14,7 +14,7 @@ This project leverages Python 3.7 with the following packages:
 
 * [NumPy](https://numpy.org/doc/stable/) - Fundamental package for scientific computing in Python
 
-* [hvPlot] (https://hvplot.holoviz.org/https://hvplot.holoviz.org/) - A familiar and high-level API for data exploration and visualization
+* [hvPlot](https://hvplot.holoviz.org/https://hvplot.holoviz.org/) - A familiar and high-level API for data exploration and visualization
 
 ---
 
